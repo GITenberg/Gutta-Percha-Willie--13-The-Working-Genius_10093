@@ -1,6 +1,9 @@
 _repo: Gutta-Percha-Willie--13-The-Working-Genius_10093
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The History of Gutta-Percha Willie
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -13,6 +16,8 @@ description: In this 1873 short novel for children--by an author who influenced 
   C. S. Lewis, and many other fantasy writers--young Willie's wise father, a doctor,
   lets his son learn by himself how to first work with his hands, then his mind. His
   resulting benefit Willie, his family, and the world at large.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10093#Gutta-Percha-Willie--13-The-Working-Genius
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
